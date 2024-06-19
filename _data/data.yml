@@ -8,23 +8,23 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Yudha Perwira Hartono
+    tagline: Website & Android Full-Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    email: # hello@webjeda.com
+    phone: # 012 345 6789
+    timezone: Jakarta / Western Indonesian Time (WIB)
+    citizenship: Indonesian
+    website: yudhaniverse.blogspot.com # blog.webjeda.com #do not add http://
+    linkedin: # alandoe
+    xing: # alandoe
+    github: yudhaniverse
+    telegram: yudhaniverse # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: #'@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -33,14 +33,14 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Indonesian
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: French
+          level: Beginner
 
     interests:
       title: Interests
